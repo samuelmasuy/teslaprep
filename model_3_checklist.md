@@ -1,10 +1,9 @@
-*Feel free to print this out and bring it, along with a pen. Don't feel like you need to rush through the inspection. The delivery team at Tesla will certainly seem like they want to move quickly, but you don't need to leave the lot until you're 100% satisfied. Take your time."
+> Don't feel like you need to rush through the inspection. The delivery team at Tesla will certainly seem like they want to move quickly, but you don't need to leave the lot until you're 100% satisfied. Take your time."
 
 ## SECTION A - Verify pre-delivery vehicle records
 - [ ] 1.  Check for the correct full name and address on your paperwork.
 - [ ] 2.  Confirm the vehicle's VIN matches your paperwork.
 - [ ] 3.  Check the vehicle's display screen for any information that does not match the vehicle (found by tapping the Tesla "T").
-- [ ] 4.  Verify that the vehicle's Moroney record matches your configuration.
 
 ## SECTION B - Exterior inspection
 - [ ] 1.  Verify that the vehicle's body color, interior, and wheels match what you configured.
@@ -17,9 +16,8 @@
 - [ ] 8.  Inspect all edges of the roof glass panel and rear window.
 - [ ] 9.  Test all doors to ensure they open and close without unreasonable effort or sound. Check paint in areas such as door hinges, that are not visible when doors are closed. *NOTE: Some deliveries have reported incomplete body painting in hidden areas.*
 - [ ] 10.  Test opening and closing of trunk and frunk. Check paint in areas that are not visible when frunk and trunk are closed.  *NOTE: Some deliveries have reported incomplete body painting in hidden areas.*
-- [ ] 11.  Check for the towing eye under the frunk mat.
+- [ ] 11.  Check for the towing eye (ask for demonstration, don't break it)
 - [ ] 12.  Ensure door windows auto-close completely when doors are closed.
-- [ ] 13.  Check for front license plate bracket (if applicable in your state).
 - [ ] 14.  Check all front and rear exterior lights for signs of internal condensation.
 - [ ] 15.  With all doors open, inspect the weather seals around door gaps and windows. *NOTE: Some deliveries have reported seals being "overlapped" incorrectly. This is easily fixed by hand in a few seconds, but worth noting.*
 
@@ -31,17 +29,23 @@
 - [ ] 5.  Inspect interior seat upholstery, door surfaces, dash, headliner & carpets (including passenger compartment, frunk, and trunk).
 - [ ] 6.  Check left and right clothing hook operation.
 - [ ] 7.  Check all seat belts for proper operation.
-- [ ] 8.  Check the rear seats for proper fold-down operation.
-- [ ] 9.  Test the sound system to ensure all speakers are working (move fade/balance to all four points to verify)
-- [ ] 10.  Test the steering wheel position controls to ensure proper operation.
-- [ ] 11.  Press the center of the steering wheel to make sure the vehicle's horn works.
-- [ ] 12.  Test the windshield wipers.
-- [ ] 13.  Test the rearview camera.
-- [ ] 14.  Check side mirrors for proper operation of folding and position adjustment.
-- [ ] 15.  Check sun-visor operation and mirror condition.
-- [ ] 16.  Check the rearview mirror for any warping or distortion.
-- [ ] 17.  Test connectivity in all USB ports (1 USB-A/1 USB-C in the front, 2 USB-C in the rear).
-- [ ] 18.  Test connectivity of wireless phone charger.
+- [ ] 8.  Seat tears or smudges
+- [ ] 9.  Seat material is not bunched or folded
+- [ ] 10.  Both front seats don’t squeak when moving (check all directions of motion) OR folding (for rear)
+- [ ] 11.  Check the rear seats for proper fold-down operation.
+- [ ] 12.  Test the sound system to ensure all speakers are working (move fade/balance to all four points to verify)
+- [ ] 13.  Test the steering wheel position controls to ensure proper operation.
+- [ ] 14.  Press the center of the steering wheel to make sure the vehicle's horn works.
+- [ ] 15.  Test the windshield wipers.
+- [ ] 16.  Test the rearview camera.
+- [ ] 17.  Check side mirrors for proper operation of folding and position adjustment.
+- [ ] 18.  Check sun-visor operation and mirror condition.
+- [ ] 19.  Check the rearview mirror for any warping or distortion.
+- [ ] 20.  Test connectivity in all USB ports (1 USB-A/1 USB-C in the front, 2 USB-C in the rear).
+- [ ] 21.  Test connectivity of wireless phone charger.
+- [ ] 22.  Voice control works
+- [ ] 23.  Microphone picks up good audio (call a friend with the Model 3 dialer)
+
 
 ## SECTION D - Lighting inspection
 - [ ] 1.  Vanity mirror lights.
@@ -78,9 +82,6 @@
     -  J1772 adapter.
 	-  NEMA 5-15 120v adapter.
 	-  Mobile Connector with cable.
-
-## SECTION F - Verify region-specific equipment
-- [ ] 1.  Maryland deliveries should include Tesla's official inflation kit.
 
 ## SECTION G - Inspect pairing connectivity
 - [ ] 1.  Test both key cards to ensure they work with your vehicle. Keep one key card on your person in case the phone app does not operate properly.
